@@ -1,0 +1,6 @@
+# Ignore local build artifacts and node modules
+node_modules/
+.next/
+.env
+.env.local
+*.log
